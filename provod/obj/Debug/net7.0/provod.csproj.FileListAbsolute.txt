@@ -1,0 +1,15 @@
+/Users/tagirner/Projects/provod/provod/bin/Debug/net7.0/provod
+/Users/tagirner/Projects/provod/provod/bin/Debug/net7.0/provod.deps.json
+/Users/tagirner/Projects/provod/provod/bin/Debug/net7.0/provod.runtimeconfig.json
+/Users/tagirner/Projects/provod/provod/bin/Debug/net7.0/provod.dll
+/Users/tagirner/Projects/provod/provod/bin/Debug/net7.0/provod.pdb
+/Users/tagirner/Projects/provod/provod/obj/Debug/net7.0/provod.csproj.AssemblyReference.cache
+/Users/tagirner/Projects/provod/provod/obj/Debug/net7.0/provod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tagirner/Projects/provod/provod/obj/Debug/net7.0/provod.AssemblyInfoInputs.cache
+/Users/tagirner/Projects/provod/provod/obj/Debug/net7.0/provod.AssemblyInfo.cs
+/Users/tagirner/Projects/provod/provod/obj/Debug/net7.0/provod.csproj.CoreCompileInputs.cache
+/Users/tagirner/Projects/provod/provod/obj/Debug/net7.0/provod.dll
+/Users/tagirner/Projects/provod/provod/obj/Debug/net7.0/refint/provod.dll
+/Users/tagirner/Projects/provod/provod/obj/Debug/net7.0/provod.pdb
+/Users/tagirner/Projects/provod/provod/obj/Debug/net7.0/provod.genruntimeconfig.cache
+/Users/tagirner/Projects/provod/provod/obj/Debug/net7.0/ref/provod.dll
